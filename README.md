@@ -1,19 +1,18 @@
 # PHPSearchEngine
 This is a back-end search engine using PHP and MySQL on the famous WAMPSERVER
 
-## :wrench: Tool
-- Wampserver (PHP, MySQL)
+## :wrench: Tools
+- Wampserver:
+	- PHP 7.4.26
+	- MySQL 8.0.27
+- Bootstrap 5.2
 
 <!-- TODO: Setup -->
 
-## :rocket: Features
-### BACK-END (:warning: Priority)
-- Connect a stronger database containing all countries from the world
-- Don't allow user searching for an empty query, display error message
-
-## :white_check_mark: To Do
-- Fix `myindex.php` using `index.php`
-
-### FRONT-END
-- Center the search engine
-- Append for **background-image** standing for different countries
+## :ballot_box_with_check: To Do
+- Return error message when user submits another character than a letter 
+- Display error message to user when submitted query is empty
+- For no results, say to user that any country into databse contains this letter 
+- ~~Clean form fields~~
+- Structure the project following coding conventions
+- Design the project using a template on Bootstrap website
