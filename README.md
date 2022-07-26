@@ -27,3 +27,4 @@ git clone https://github.com/loickcherimont/PHPSearchEngine
 - Write to **Setup** for **built-in tools**
 - Structure the project following coding conventions
 - Use smart comments
+- Detail about database *(ID, country_name)* in **Setup** filled with **PHPMyAdmin** from **Wampserver**
