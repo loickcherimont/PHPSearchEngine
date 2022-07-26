@@ -1,4 +1,4 @@
-# PHPSearchEngine
+# C:earth_africa:untrypedia
 This is a back-end search engine using PHP and MySQL on the famous WAMPSERVER
 
 ## :wrench: Tools
@@ -8,11 +8,11 @@ This is a back-end search engine using PHP and MySQL on the famous WAMPSERVER
 - Bootstrap 5.2
 
 <!-- TODO: Setup -->
+<!-- With git-->
+
+<!-- Without git -->
 
 ## :ballot_box_with_check: To Do
-- Return error message when user submits another character than a letter 
-- Display error message to user when submitted query is empty
-- For no results, say to user that any country into databse contains this letter 
-- ~~Clean form fields~~
+- Write to **Setup part**
 - Structure the project following coding conventions
-- Design the project using a template on Bootstrap website
+- Use smart comments
